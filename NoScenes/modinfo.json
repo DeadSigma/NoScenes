@@ -1,7 +1,9 @@
 {
   "name": "No Scenes",
   "author": "El_Neuman",
-  "description": "No load game scenes",
-  "version": "0.1.0-rc.1",
+  "description": "No game scenes load",
+  "version": "0.1.0",
+    "icon": "icon.png",
+  "banner": "banner.png",
   "isModPermanent": false
 }
